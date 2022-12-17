@@ -1,2 +1,2 @@
-s = 'as'
+s = 'HELLO'
 print(s)
