@@ -1,2 +1,2 @@
-s = 'BY'
+s = 'Okey'
 print(s)
